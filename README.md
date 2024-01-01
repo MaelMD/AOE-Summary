@@ -1,12 +1,10 @@
-# Advanced Objet Engineering - Ingénierie avancé objet
-
 # Advanced Objet Engineering - Ingénierie avancée objet
 
 ## Sommaire
-1. [Résumé du Chapitre 1 - "Ingénierie Avancée Objet"](#chapitre-1)
-2. [Résumé du Chapitre 2 - "Clean Code et Principes SOLID"](#chapitre-2)
-3. [Résumé du Chapitre 3 - "Design Patterns"](#chapitre-3)
-4. [Résumé du Chapitre 4 - "Métriques Orientées Objets"](#chapitre-4)
+1. [Chapitre 1 - "Ingénierie Avancée Objet"](#chapitre-1)
+2. [Chapitre 2 - "Clean Code et Principes SOLID"](#chapitre-2)
+3. [Chapitre 3 - "Design Patterns"](#chapitre-3)
+4. [Chapitre 4 - "Métriques Orientées Objets"](#chapitre-4)
 
 ## Chapitre 1 - "Ingénierie Avancée Objet" <a name="chapitre-1"></a>
 ### Introduction
@@ -123,7 +121,7 @@
 ### Résumé
 - Les Design Patterns offrent des solutions structurées pour des problèmes de conception courants, facilitant le développement de logiciels plus robustes, maintenables et évolutifs.
 
-## Chapitre 4 - Métriques Orientées Objets <a name="chapitre-4"></a>
+## Chapitre 4 - "Métriques Orientées Objets" <a name="chapitre-4"></a>
 
 ### Problématique des Métriques
 - **Importance :** Les métriques sont essentielles pour évaluer la qualité des logiciels, particulièrement dans les projets de grande envergure.
