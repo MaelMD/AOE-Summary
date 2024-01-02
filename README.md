@@ -43,9 +43,7 @@
 ## Chapitre 2 - "Clean Code et Principes SOLID" <a name="chapitre-2"></a>
 ### Introduction au Clean Code
 - **Concept :** Art d'écrire un code source lisible, compréhensible et maintenable.
-- **Importance :** Améliore
-
- la maintenabilité, facilite la collaboration, réduit les bugs, et contribue à la qualité du logiciel.
+- **Importance :** Améliore la maintenabilité, facilite la collaboration, réduit les bugs, et contribue à la qualité du logiciel.
 - **Citation :** "Clean code is simple and direct. Clean code reads like well-written prose." - Robert C. Martin
 
 ### Principes du Clean Code
