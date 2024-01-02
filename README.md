@@ -91,7 +91,7 @@
 - **Pattern :** Solution réutilisable à un problème fréquent dans un contexte donné, sans être adaptée deux fois de la même manière.
 - **Documentation de Conception Expérimentée :** Fournit un vocabulaire commun et facilite la compréhension des principes de conception.
 
-### Catégories de Design Patterns
+### Catégories de Patterns
 - **Architectural Patterns :** Schémas d'organisation structurelle de logiciels.
 - **Design Patterns :** Structures de conception communes à plusieurs applications.
 - **Idioms ou Coding Patterns :** Solutions liées à un langage spécifique.
